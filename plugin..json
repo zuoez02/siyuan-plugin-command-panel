@@ -1,0 +1,17 @@
+{
+    "name": "command-panel",
+    "author": "zuoez02",
+    "url": "https://github.com/zuoez02/siyuan-plugin-command-panel",
+    "version": "1.0.0",
+    "displayName": {
+        "default": "CommandPanel",
+        "zh_CN": "命令面板"
+    },
+    "description": {
+        "default": "CommandPanel is like it in obsidian or vscode. Trigger ctrl+shift+o,command+shift+o to show",
+        "zh_CN": "命令面板用于通过快捷键和键盘操作方式快捷使用某些命令，使用快捷键 Ctrl+Shift+O/Command+Shift+O 呼出命令面板"
+    },
+    "readme": {
+        "default": "README.md"
+    }
+}
